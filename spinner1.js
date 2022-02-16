@@ -1,3 +1,7 @@
+
+   
+// Spinner - a low-fidelity loading spinner
+
 setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 100);
