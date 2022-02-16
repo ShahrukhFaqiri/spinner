@@ -1,4 +1,3 @@
-
    
 // Spinner - a low-fidelity loading spinner
 
